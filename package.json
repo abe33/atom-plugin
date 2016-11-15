@@ -3,6 +3,7 @@
   "main": "./lib/kite",
   "version": "0.0.0",
   "description": "A simple plugin to make Atom work with Kite",
+  "repository": "https://github.com/kiteco/atom-plugin",
   "keywords": [],
   "license": "MIT",
   "engines": {
