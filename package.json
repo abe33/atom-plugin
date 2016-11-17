@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "kite-installer": "0.0.6",
+    "kite-installer": "latest",
     "mixpanel": "^0.5.0"
   },
   "providedServices": {
