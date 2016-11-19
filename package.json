@@ -1,7 +1,7 @@
 {
   "name": "kite",
   "main": "./lib/kite",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A simple plugin to make Atom work with Kite",
   "repository": "https://github.com/kiteco/atom-plugin",
   "keywords": [],
