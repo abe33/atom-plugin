@@ -1,15 +1,8 @@
 Kite for Atom
 =============
 
-### Development
+Kite gives you completions and documentation in Atom, sorted by popularity.
 
-To get this plugin up and running in development:
+We'll be adding many more features very soon.
 
-```shell
-$ git clone git@github.com:kiteco/atom-plugin.git
-$ cd atom-plugin
-$ npm install   # installs dependencies of this package
-$ apm link .    # symlinks kite into atom packages dir
-```
-
-Then restart Atom. Kite should appear in the list of packages.
+You can learn more about the broader Kite product at <http://kite.com>.  As part of this package, you also get the Kite Sidebar, which shows more information as you're working.  You can access the Kite Sidebar by launching Kite in your Applications folder.
