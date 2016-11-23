@@ -19,5 +19,19 @@
         "2.0.0": "completions"
       }
     }
+  },
+  "config": {
+    "enableCompletions": {
+      "type": "boolean",
+      "default": true,
+      "title": "Enable Completions",
+      "description": "Show auto-completions from Kite as Atom suggestions"
+    },
+    "checkReadiness": {
+      "type": "boolean",
+      "default": false,
+      "title": "Check Kite Status",
+      "description": "Check this box to check the status of the Kite auto-complete daemon."
+    }
   }
 }
